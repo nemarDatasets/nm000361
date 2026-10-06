@@ -21,6 +21,9 @@
     "Canadian Institutes of Health Research",
     "Fonds de la Recherche en Santé du Québec"
   ],
+  "EthicsApprovals": [
+    "Montreal Neurological Institute (lead ethics organization for the multicentre MNI Open iEEG Atlas), REB vote MUHC-15-950. Frauscher et al. 2018, Brain 141:1130, Methods: \"Ethical approval was granted at the MNI as lead ethics organization (REB vote: MUHC-15-950).\" This statement is from the atlas paper. The HFO recordings come from patients of the same atlas (shared patient numbers); the ethics statement of Frauscher et al. 2018 Ann Neurol 84:374 could not be read (subscription full text)."
+  ],
   "ReferencesAndLinks": [
     "https://mni-open-ieegatlas.research.mcgill.ca/",
     "https://doi.org/10.1002/ana.25304",

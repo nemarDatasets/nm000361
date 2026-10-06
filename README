@@ -46,6 +46,13 @@ with more than one section set `RecordingType: discontinuous`; consecutive secti
 contiguous in the original recording. Onsets are relative to the file start; no acquisition times exist.
 Patient numbers are shared with the atlas (see participants.json).
 
+## Ethics
+
+Frauscher et al. 2018 (Brain 141:1130), Methods: "Ethical approval was granted at the MNI as lead ethics
+organization (REB vote: MUHC-15-950)." The data were recorded during clinical presurgical evaluation of drug-resistant
+focal epilepsy at three tertiary epilepsy centres. This statement is from the atlas paper; the HFO patients are patients of the same atlas (shared
+patient numbers). The ethics statement of the HFO paper (Ann Neurol 2018) could not be read (subscription full text).
+
 ## Participants
 
 Patients with drug-resistant focal epilepsy investigated with intracranial EEG at three tertiary epilepsy

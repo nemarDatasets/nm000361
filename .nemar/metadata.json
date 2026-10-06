@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "MNI Open iEEG Atlas: high-sampling-rate NREM sleep sEEG (normal high-frequency oscillations)",
+  "description": "Stereo-EEG recordings of non-REM (N2/N3) sleep at the original sampling rates (512, 1024 and 2000 Hz) from 71 patients with drug-resistant focal epilepsy, taken from the MNI Open iEEG Atlas. Only bipolar channels judged to record normal activity (outside the epileptic zone and lesions, in grey matter) are included, with Talairach coordinates. The data were collected to characterize normative high-frequency oscillations (ripples) in the human brain.",
+  "methods_description": "Clinical presurgical stereo-EEG recordings from three tertiary epilepsy centres, using DIXI and MNI homemade depth electrodes. Twenty-minute sections of N2/N3 sleep were selected. Bipolar derivations between adjacent contacts are positioned at the contact midpoint. Source int16 samples were repacked losslessly into BrainVision INT_16 with the source gain as resolution, and zero buffers between sections are listed in events.tsv.",
+  "license": "CC-BY-NC-4.0",
+  "dataset_type": "raw",
   "authors": {
     "Birgit Frauscher": {},
     "Nicolás von Ellenrieder": {},
@@ -11,6 +16,30 @@
     "François Dubeau": {},
     "Jean Gotman": {}
   },
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "stereo-EEG"
+    },
+    {
+      "term": "high-frequency oscillations"
+    },
+    {
+      "term": "NREM sleep"
+    },
+    {
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.1002/ana.25304",
@@ -57,14 +86,11 @@
       "funder_name": "Fonds de la Recherche en Santé du Québec"
     }
   ],
-  "title": "MNI Open iEEG Atlas: high-sampling-rate NREM sleep sEEG (normal high-frequency oscillations)",
-  "license": "CC-BY-NC-4.0",
-  "dataset_type": "raw",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
     "5.32 GB (144 files)"
   ],
@@ -76,31 +102,8 @@
     ".txt",
     ".vhdr",
     ".vmrk",
+    ".yml",
     ".zip"
   ],
-  "description": "Stereo-EEG recordings from 71 patients with drug-resistant focal epilepsy during non-REM (N2/N3) sleep, provided at the original sampling rates of 512, 1024 and 2000 Hz. The data come from the MNI Open iEEG Atlas and were used to characterize normative high-frequency oscillations (HFOs) in the normal human brain. Only bipolar channels judged to record normal activity in grey matter are included, with Talairach coordinates of channel midpoints. The BIDS conversion is a lossless repack of the source int16 arrays.",
-  "methods_description": "Stereo-EEG was recorded at three tertiary epilepsy centres using DIXI or MNI homemade depth electrodes (and some AdTech subdural strips/grids). Twenty-minute sections of N2/N3 sleep were selected. Channels are bipolar derivations between adjacent contacts, positioned at the contact midpoint in Talairach space. Source int16 samples were stored as BrainVision INT_16 with resolution equal to the source gain, without filtering or resampling. Zero-valued buffers and padding were detected and listed in events.tsv.",
-  "keywords": [
-    {
-      "term": "intracranial EEG"
-    },
-    {
-      "term": "stereo-EEG"
-    },
-    {
-      "term": "high-frequency oscillations"
-    },
-    {
-      "term": "NREM sleep"
-    },
-    {
-      "term": "Epilepsy",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
-    },
-    {
-      "term": "normal brain activity"
-    }
-  ],
-  "source_hash": "12c42f5b6ccab6ff61ce2d66991cb5bac8fc6aeea9db999ccbba3ae64bd12da3"
+  "source_hash": "b12861d564e1fb15f02e9efeaad27267a70308cc6dc85f41001cb1fb4dd97ce1"
 }

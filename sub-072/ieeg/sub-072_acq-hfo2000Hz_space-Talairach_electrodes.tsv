@@ -1,0 +1,10 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LOF6-LOF7	-29.3317547	32.75441101	-7.101328784	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF6-LOF7
+LOF7-LOF8	-32.96689287	33.89364183	-6.983542957	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF7-LOF8
+LOF8-LOF9	-36.60203481	35.03282217	-6.865759502	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF8-LOF9
+LOF9-LOF10	-40.23718085	36.17195182	-6.747972672	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF9-LOF10
+LCa8-LCa9	-36.85721042	39.74448765	9.444478889	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa8-LCa9
+LCa9-LCa10	-40.68388804	39.67988497	9.777848867	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa9-LCa10
+LCp1-LCp2	-14.6672141	-55.00112053	23.82318716	n/a	n/a	6	Medial parietal lobe	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCp1-LCp2
+RCa8-RCa9	32.30864373	38.41623801	8.979240757	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCa8-RCa9
+RCa9-RCa10	36.06983999	38.34768961	9.790342002	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCa9-RCa10

@@ -1,0 +1,12 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+f1-f2	25.47235951	-41.58030971	-17.22155715	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	f1-f2
+f2-f3	29.20684788	-41.55164519	-17.27277118	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	f2-f3
+f3-f4	32.94133458	-41.52291926	-17.32393636	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	f3-f4
+f6-f7	44.14485135	-41.43686302	-17.47752931	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	f6-f7
+f7-f8	47.87939138	-41.40813582	-17.5286942	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	f7-f8
+f11-f12	62.8173941	-41.29330923	-17.73351987	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	f11-f12
+t_1-t_2	-37.27965833	-4.175243385	-1.079746705	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_1-t_2
+t_2-t_3	-41.00541073	-4.284078609	-0.816605079	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_2-t_3
+t_3-t_4	-44.73116312	-4.392913832	-0.553463453	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_3-t_4
+t_4-t_5	-48.45686206	-4.501753075	-0.290320601	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_4-t_5
+t_7-t_8	-59.63401566	-4.828143964	0.499204425	n/a	n/a	14	Superior temporal gyrus	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_7-t_8

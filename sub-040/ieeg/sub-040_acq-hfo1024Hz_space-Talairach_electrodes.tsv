@@ -1,0 +1,16 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+u06-u07	58.78696584	-13.78869274	2.772307063	n/a	n/a	16	Transverse temporal gyrus and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	u06-u07
+u07-u08	62.46202942	-13.55231312	3.014189244	n/a	n/a	14	Superior temporal gyrus	n/a	D	DIXI Medical (intracerebral depth electrodes)	u07-u08
+c07-c08	58.02051718	-30.53658964	-12.63472279	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	c07-c08
+c08-c09	61.65326234	-30.49221207	-13.37762461	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	c08-c09
+c09-c10	65.28600748	-30.4478373	-14.12046524	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	c09-c10
+e03-e04	37.96539215	-24.8272522	-24.38479972	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	e03-e04
+e04-e05	41.65364759	-24.77267101	-24.40583945	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	e04-e05
+e05-e06	45.34190482	-24.71798353	-24.42693374	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	e05-e06
+t_02-t_03	-45.38618509	5.509766145	-8.180585597	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_02-t_03
+t_05-t_06	-55.80548532	1.88566976	-7.517645738	n/a	n/a	14	Superior temporal gyrus	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_05-t_06
+t_06-t_07	-59.27856725	0.677671841	-7.296663585	n/a	n/a	14	Superior temporal gyrus	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_06-t_07
+u_03-u_04	-48.87767852	-13.22662278	2.650987606	n/a	n/a	16	Transverse temporal gyrus and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_03-u_04
+u_04-u_05	-52.51363011	-13.82937784	2.527008294	n/a	n/a	16	Transverse temporal gyrus and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_04-u_05
+u_05-u_06	-56.14952908	-14.43213614	2.402967438	n/a	n/a	16	Transverse temporal gyrus and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_05-u_06
+u_06-u_07	-59.78542796	-15.03488927	2.278926913	n/a	n/a	16	Transverse temporal gyrus and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_06-u_07

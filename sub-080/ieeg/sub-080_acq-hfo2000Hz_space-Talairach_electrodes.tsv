@@ -1,0 +1,6 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LSMAa1-LSMAa2	-11.26816895	4.981353072	50.90992923	n/a	n/a	9	Supplementary motor cortex	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LSMAa1-LSMAa2
+LSMAa2-LSMAa3	-13.85615201	6.374685837	55.46324494	n/a	n/a	9	Supplementary motor cortex	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LSMAa2-LSMAa3
+LSMAa4-LSMAa5	-19.03202518	9.161317052	64.56976424	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LSMAa4-LSMAa5
+LSMAa5-LSMAa6	-21.62000466	10.55469988	69.12306567	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LSMAa5-LSMAa6
+LSMAa6-LSMAa7	-24.20793767	11.94806556	73.67631104	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LSMAa6-LSMAa7

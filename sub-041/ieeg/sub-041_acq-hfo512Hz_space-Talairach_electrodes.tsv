@@ -1,0 +1,40 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+x1-x2	38.03923506	4.489139109	-8.607402994	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	x1-x2
+x5-x6	35.00890635	5.952770458	7.58678165	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	x5-x6
+y1-y2	36.13386793	-9.81588911	-6.721657288	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	y1-y2
+y7-y8	32.43473296	-18.74548227	15.71802424	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	y7-y8
+p_1-p_2	-33.13900204	18.99443364	9.948153789	n/a	n/a	12	Frontal operculum	n/a	D	DIXI Medical (intracerebral depth electrodes)	p_1-p_2
+p_2-p_3	-37.18856841	18.79780766	9.841930916	n/a	n/a	12	Frontal operculum	n/a	D	DIXI Medical (intracerebral depth electrodes)	p_2-p_3
+p_6-p_7	-53.38701122	18.01129311	9.416865935	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	p_6-p_7
+p_7-p_8	-57.43663706	17.81471637	9.310581566	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	p_7-p_8
+q_1-q_2	-31.60407566	-2.276629298	12.24405598	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	q_1-q_2
+q_2-q_3	-35.65444889	-2.459802697	12.13590531	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	q_2-q_3
+q_3-q_4	-39.70470742	-2.642978858	12.02769317	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	q_3-q_4
+q_7-q_8	-55.9060277	-3.375674957	11.59502781	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	q_7-q_8
+r_1-r_2	-35.61572862	-16.8247613	18.5339404	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	r_1-r_2
+r_2-r_3	-39.66738297	-16.97898869	18.42172591	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	r_2-r_3
+r_3-r_4	-43.71903729	-17.13322137	18.30951179	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	r_3-r_4
+r_4-r_5	-47.7706916	-17.28745405	18.19729767	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	r_4-r_5
+r_5-r_6	-51.82234595	-17.44168144	18.08508318	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	r_5-r_6
+r_6-r_7	-55.87405941	-17.59591238	17.97281086	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	r_6-r_7
+r_7-r_8	-59.9257717	-17.75014004	17.86059758	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	r_7-r_8
+r_8-r_9	-63.97742602	-17.90437272	17.74838346	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	r_8-r_9
+s_1-s_2	-37.39529382	-27.62103261	19.22050692	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	s_1-s_2
+s_2-s_3	-41.45155324	-27.66629557	19.25699605	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	s_2-s_3
+s_3-s_4	-45.50775586	-27.71156684	19.29342529	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	s_3-s_4
+s_6-s_7	-57.67647693	-27.84724991	19.40288412	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	s_6-s_7
+s_7-s_8	-61.73267841	-27.89251262	19.43937204	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	s_7-s_8
+t_4-t_5	-54.11694882	-18.18917623	-6.753880675	n/a	n/a	14	Superior temporal gyrus	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_4-t_5
+t_5-t_6	-58.16283883	-18.42032611	-6.908399888	n/a	n/a	14	Superior temporal gyrus	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_5-t_6
+t_6-t_7	-62.20872892	-18.65148159	-7.062924639	n/a	n/a	14	Superior temporal gyrus	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_6-t_7
+u_4-u_5	-47.04779887	-28.63210621	7.021465645	n/a	n/a	16	Transverse temporal gyrus and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_4-u_5
+u_5-u_6	-51.09684707	-28.85227476	7.081425066	n/a	n/a	16	Transverse temporal gyrus and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_5-u_6
+u_6-u_7	-55.1458941	-29.07244004	7.141443532	n/a	n/a	16	Transverse temporal gyrus and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_6-u_7
+u_7-u_8	-59.19499826	-29.29254951	7.201518595	n/a	n/a	16	Transverse temporal gyrus and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_7-u_8
+u_8-u_9	-63.24410355	-29.51266754	7.261534979	n/a	n/a	14	Superior temporal gyrus	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_8-u_9
+f_1-f_2	-25.33468204	-56.37320832	-15.04152955	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	f_1-f_2
+f_2-f_3	-29.37914152	-56.55395878	-15.28996747	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	f_2-f_3
+f_5-f_6	-41.51275078	-57.09636993	-16.03527244	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	f_5-f_6
+f_6-f_7	-45.55721107	-57.27717646	-16.28376573	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	f_6-f_7
+f_7-f_8	-49.60172822	-57.45798022	-16.53220349	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	f_7-f_8
+f_8-f_9	-53.64630376	-57.6387317	-16.78064784	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	f_8-f_9

@@ -1,0 +1,15 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+s4-s5	50.63483911	-2.42288166	10.03911279	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	s4-s5
+s5-s6	54.21325486	-2.608719357	10.13145413	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	s5-s6
+s6-s7	57.79167062	-2.794557054	10.22379547	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	s6-s7
+q3-q4	40.73501895	26.02574362	6.998130427	n/a	n/a	12	Frontal operculum	n/a	D	DIXI Medical (intracerebral depth electrodes)	q3-q4
+q4-q5	44.31669916	25.97851045	6.873984096	n/a	n/a	12	Frontal operculum	n/a	D	DIXI Medical (intracerebral depth electrodes)	q4-q5
+q5-q6	47.89832965	25.93126686	6.749779121	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	q5-q6
+q6-q7	51.48001149	25.88407697	6.62556483	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	q6-q7
+q7-q8	55.06169188	25.83689741	6.501407524	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	q7-q8
+y8-y9	36.80413507	17.39547403	4.318406895	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	y8-y9
+y9-y10	35.77902103	20.05562833	6.994678028	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	y9-y10
+x11-x12	37.06046969	54.55106458	9.875581789	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	x11-x12
+x12-x13	37.28522258	56.61852946	13.28396844	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	x12-x13
+g_1-g_2	4.842216448	35.34813805	-5.43500616	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	g_1-g_2
+g_2-g_3	8.42561456	35.35735952	-5.389133475	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	g_2-g_3

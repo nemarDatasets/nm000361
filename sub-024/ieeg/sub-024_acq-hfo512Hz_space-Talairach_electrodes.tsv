@@ -1,0 +1,7 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+t_4-t_5	-58.18986081	-10.11855062	-1.888444207	n/a	n/a	16	Transverse temporal gyrus and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_4-t_5
+u_3-u_4	-49.7819013	-27.87110359	2.722912188	n/a	n/a	14	Superior temporal gyrus	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_3-u_4
+u_4-u_5	-53.8859409	-27.92280023	2.808289178	n/a	n/a	14	Superior temporal gyrus	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_4-u_5
+u_5-u_6	-57.99003872	-27.97445277	2.893596053	n/a	n/a	14	Superior temporal gyrus	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_5-u_6
+u_6-u_7	-62.09419498	-28.02609383	2.978961497	n/a	n/a	14	Superior temporal gyrus	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_6-u_7
+u_7-u_8	-66.19829322	-28.07778986	3.064338559	n/a	n/a	14	Superior temporal gyrus	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_7-u_8

@@ -1,0 +1,8 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LCp7-LCp8	-48.44781185	-43.82003724	23.76342706	n/a	n/a	5	Inferior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCp7-LCp8
+LCp8-LCp9	-53.82016513	-42.71256297	24.25579169	n/a	n/a	5	Inferior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCp8-LCp9
+LL1-LL2	-17.10480718	-59.24519589	0.03578624	n/a	n/a	2	Medial occipital	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LL1-LL2
+LL2-LL3	-22.59834332	-59.60764872	-0.101716411	n/a	n/a	2	Medial occipital	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LL2-LL3
+LL5-LL6	-39.07899001	-60.69483962	-0.514227636	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LL5-LL6
+LL6-LL7	-44.57257529	-61.05723327	-0.651736932	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LL6-LL7
+LL7-LL8	-50.06611161	-61.41968569	-0.789233585	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LL7-LL8

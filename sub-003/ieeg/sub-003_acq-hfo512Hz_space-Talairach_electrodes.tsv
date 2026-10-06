@@ -1,0 +1,12 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+t_4-t_5	-51.44833685	6.952542325	1.404015757	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_4-t_5
+t_5-t_6	-55.04204822	6.806812274	1.348885431	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_5-t_6
+t_6-t_7	-58.63575548	6.661190329	1.293737056	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	t_6-t_7
+u_1-u_2	-40.96746415	-22.66443798	8.545209107	n/a	n/a	16	Transverse temporal gyrus and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	u_1-u_2
+f_1-f_2	-25.12589757	-50.34171972	-9.483007036	n/a	n/a	2	Medial occipital	n/a	D	DIXI Medical (intracerebral depth electrodes)	f_1-f_2
+f_2-f_3	-28.71849628	-50.48710549	-9.598284313	n/a	n/a	2	Medial occipital	n/a	D	DIXI Medical (intracerebral depth electrodes)	f_2-f_3
+f_3-f_4	-32.3110934	-50.63244864	-9.713632333	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	f_3-f_4
+f_4-f_5	-35.90369052	-50.77779179	-9.828980353	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	f_4-f_5
+f_5-f_6	-39.4962872	-50.92312406	-9.944269591	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	f_5-f_6
+f_6-f_7	-43.08888388	-51.06845632	-10.05955883	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	f_6-f_7
+f_10-f_11	-57.45937664	-51.64986712	-10.5208801	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	f_10-f_11

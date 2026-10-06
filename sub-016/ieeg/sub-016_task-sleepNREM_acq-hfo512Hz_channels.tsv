@@ -1,0 +1,10 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	reference	status	status_description
+j1-j2	SEEG	µV	n/a	n/a	512	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+j12-j13	SEEG	µV	n/a	n/a	512	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+b1-b2	SEEG	µV	n/a	n/a	512	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+b4-b5	SEEG	µV	n/a	n/a	512	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+b5-b6	SEEG	µV	n/a	n/a	512	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+b6-b7	SEEG	µV	n/a	n/a	512	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+b7-b8	SEEG	µV	n/a	n/a	512	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+b10-b11	SEEG	µV	n/a	n/a	512	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+b11-b12	SEEG	µV	n/a	n/a	512	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)

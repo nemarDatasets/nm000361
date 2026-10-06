@@ -1,0 +1,21 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+RPC1-RPC2	2.798645467	-52.77424275	53.65907323	n/a	n/a	6	Medial parietal lobe	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RPC1-RPC2
+RPC2-RPC3	7.400134695	-54.72031589	54.92365754	n/a	n/a	6	Medial parietal lobe	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RPC2-RPC3
+RPC3-RPC4	12.00162696	-56.66638924	56.18824189	n/a	n/a	4	Superior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RPC3-RPC4
+RPC4-RPC5	16.60312629	-58.61246304	57.45282633	n/a	n/a	4	Superior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RPC4-RPC5
+RPC5-RPC6	21.20464582	-60.55853815	58.71741106	n/a	n/a	4	Superior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RPC5-RPC6
+RPC6-RPC7	25.80613303	-62.50455568	59.98198712	n/a	n/a	4	Superior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RPC6-RPC7
+RPC7-RPC8	30.40761721	-64.4506285	61.24657136	n/a	n/a	4	Superior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RPC7-RPC8
+RCp1-RCp2	11.17473648	-39.52748024	37.97473509	n/a	n/a	6	Medial parietal lobe	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCp1-RCp2
+RCp2-RCp3	16.18755469	-40.17160542	38.39140591	n/a	n/a	6	Medial parietal lobe	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCp2-RCp3
+RCp3-RCp4	21.20035288	-40.81573763	38.80802194	n/a	n/a	6	Medial parietal lobe	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCp3-RCp4
+RCp5-RCp6	31.2260192	-42.10400935	39.64131111	n/a	n/a	4	Superior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCp5-RCp6
+RCp6-RCp7	36.23885239	-42.74812718	40.05803667	n/a	n/a	4	Superior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCp6-RCp7
+RCp7-RCp8	41.25168575	-43.39225335	40.47470771	n/a	n/a	5	Inferior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCp7-RCp8
+ROs1-ROs2	11.54611203	-78.42566105	20.60804591	n/a	n/a	2	Medial occipital	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	ROs1-ROs2
+ROs2-ROs3	16.5540557	-78.01270019	21.29263522	n/a	n/a	2	Medial occipital	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	ROs2-ROs3
+ROs3-ROs4	21.56196603	-77.59979263	21.97723231	n/a	n/a	2	Medial occipital	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	ROs3-ROs4
+ROi1-ROi2	9.727668086	-76.60859951	2.607680484	n/a	n/a	2	Medial occipital	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	ROi1-ROi2
+ROi2-ROi3	14.77149014	-77.00449853	2.838534553	n/a	n/a	2	Medial occipital	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	ROi2-ROi3
+ROi6-ROi7	34.94696131	-78.58799969	3.761909604	n/a	n/a	1	Lateral occipital	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	ROi6-ROi7
+ROi7-ROi8	39.99085712	-78.98384802	3.992756452	n/a	n/a	1	Lateral occipital	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	ROi7-ROi8

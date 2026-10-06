@@ -1,0 +1,9 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LA5-LA6	-38.30340969	-0.67287302	-21.72163083	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LA5-LA6
+LA6-LA7	-42.02022413	0.012552478	-22.23816473	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LA6-LA7
+LH7-LH8	-52.10079787	-12.51317846	-15.8242746	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LH7-LH8
+LHp8-LHp9	-43.97281594	-43.52722151	6.140771869	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LHp8-LHp9
+LHp9-LHp10	-45.6628894	-46.43033999	8.044102527	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LHp9-LHp10
+RH5-RH6	43.74854427	-21.84896753	-18.09759106	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	RH5-RH6
+RHp8-RHp9	41.75414954	-55.27679645	-1.516822495	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RHp8-RHp9
+RHp9-RHp10	43.00425189	-58.4754395	0.21573986	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RHp9-RHp10

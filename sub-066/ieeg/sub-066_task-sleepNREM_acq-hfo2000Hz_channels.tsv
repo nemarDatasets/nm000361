@@ -1,0 +1,10 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	reference	status	status_description
+LCa1-LCa2	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+LCa5-LCa6	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+LCa6-LCa7	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+LCa7-LCa8	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+LSMA3-LSMA4	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+LSMA4-LSMA5	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+LSMA5-LSMA6	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+LSMA6-LSMA7	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+LSMA7-LSMA8	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)

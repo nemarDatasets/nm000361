@@ -1,0 +1,6 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+f04-f05	34.6719284	-17.45690171	47.14874701	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	f04-f05
+f05-f06	38.50466647	-17.60606646	47.11817516	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	f05-f06
+f06-f07	42.33734973	-17.75523172	47.08760357	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	f06-f07
+f07-f08	46.17008835	-17.90444925	47.05704326	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	f07-f08
+f08-f09	50.00288177	-18.05366626	47.02648269	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	f08-f09

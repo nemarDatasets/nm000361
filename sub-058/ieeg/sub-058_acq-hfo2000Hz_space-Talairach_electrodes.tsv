@@ -1,0 +1,14 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LCa1-LCa2	-11.26104438	37.12375894	8.259799339	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCa1-LCa2
+LCa6-LCa7	-33.63294213	38.39231614	20.76371271	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCa6-LCa7
+LCa7-LCa8	-38.10730215	38.64603799	23.26450756	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCa7-LCa8
+LCs1-LCs2	-7.077091919	7.513145651	37.3935241	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCs1-LCs2
+LCs2-LCs3	-11.82892296	8.916069551	38.24992889	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCs2-LCs3
+LCs3-LCs4	-16.58082397	10.31899242	39.10633123	n/a	n/a	9	Supplementary motor cortex	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCs3-LCs4
+LCs7-LCs8	-35.5882819	15.93073567	42.53205956	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCs7-LCs8
+RCa2-RCa3	11.55446378	38.93215881	6.782593089	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCa2-RCa3
+RCa3-RCa4	15.96486108	39.81507574	9.257293671	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCa3-RCa4
+RCa6-RCa7	29.19610226	42.46398315	16.68134411	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCa6-RCa7
+RCa7-RCa8	33.60645037	43.34695197	19.15598771	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCa7-RCa8
+RCs1-RCs2	9.979229049	9.541405952	37.20094242	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCs1-RCs2
+RCs2-RCs3	14.84485288	10.04395508	38.37876536	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCs2-RCs3

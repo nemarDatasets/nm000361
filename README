@@ -1,0 +1,80 @@
+# MNI Open iEEG Atlas: high-sampling-rate NREM sleep sEEG (normal high-frequency oscillations)
+
+Stereo-EEG during non-REM sleep (N2/N3) at the **original sampling rates** (512, 1024 and 2000 Hz) from
+71 patients, as published in the MNI Open iEEG Atlas for the normative high-frequency oscillation (HFO)
+study (Frauscher et al. 2018, Ann Neurol). The source calls these "the raw data of physiological sEEG
+recordings used to analyze HFOs". The processed 200 Hz atlas clips (wakefulness, N2, N3, REM) are deposited
+separately as a derivative dataset ("MNI Open iEEG Atlas: normal intracranial EEG in wakefulness and sleep").
+
+## License
+
+CC-BY-NC-4.0
+
+## How to cite
+
+Cite all papers that describe the data you use:
+
+- Frauscher B, von Ellenrieder N, Zelmann R, Doležalová I, Minotti L, Olivier A, Hall J, Hoffmann D, Nguyen DK, Kahane P, Dubeau F, Gotman J. Atlas of the normal intracranial electroencephalogram: neurophysiological awake activity in different cortical areas. Brain 2018;141(4):1130-1144. doi:10.1093/brain/awy035
+- Frauscher B, von Ellenrieder N, Zelmann R, Rogers C, Nguyen DK, Kahane P, Dubeau F, Gotman J. High-Frequency Oscillations in the Normal Human Brain. Ann Neurol 2018;84(3):374-385. doi:10.1002/ana.25304
+- von Ellenrieder N, Gotman J, Zelmann R, Rogers C, Nguyen DK, Kahane P, Dubeau F, Frauscher B. How the Human Brain Sleeps: Direct Cortical Recordings of Normal Brain Activity. Ann Neurol 2020;87(2):289-301. doi:10.1002/ana.25651
+
+Source: MNI Open iEEG Atlas, Montreal Neurological Institute, https://mni-open-ieegatlas.research.mcgill.ca/
+
+## Contents
+
+| acq | Source file (in HFOsInTheNormalHumanBrain.zip) | Electrodes | Subjects | Channels | Samples per file |
+|---|---|---|---|---|---|
+| hfo512Hz | DIXI-512Hz.mat | DIXI | 32 | 575 | 616448 (1204 s) |
+| hfo1024Hz | DIXI-1024Hz.mat | DIXI | 3 | 35 | 1230848 (1202 s) |
+| hfo2000Hz | DIXI-2000Hz.mat and HM-2000Hz.mat | DIXI (18 subjects) / MNI homemade (18 subjects) | 36 | 542 | 2406001 / 2406000 |
+
+All `task-sleepNREM` (N2/N3 sleep; the paper used twenty-minute sections of N2/N3 sleep). Values are the source
+int16 samples stored as BrainVision INT_16 with resolution = the source `Gain` (0.0977 µV per unit for the
+DIXI 512/1024 Hz files, 0.1526 µV per unit for the 2000 Hz files): readme: "In order to obtain the recordings in
+uV this matrix should be multiplied by the Gain variable." Nothing was filtered or resampled by us. The readme
+does not describe any filtering by the source.
+
+Coordinates: **Talairach**, readme: "Position: Talairach coordinates of the channels (midpoint of bipolar
+channels), in mm." (`space-Talairach`). Regions: 17 regions (`RegionList` in each .mat file, the
+`labels.nii`/`template.nii` volumes in the source zip). The HFO detector used in the paper (`HFODetector.m`)
+is in the source zip; a later version is on Zenodo (doi:10.5281/zenodo.7191089, CC BY 4.0).
+
+Segments: the files contain all-channel exact-zero runs of exactly one second between sections and zero
+padding at the end. This is not described in readme_HighSamplingRate.txt; it is detected from the samples and
+listed in `*_events.tsv` (`artifact_free_segment`, `zero_buffer_between_segments`, `zero_padding_end`). Files
+with more than one section set `RecordingType: discontinuous`; consecutive sections were not necessarily
+contiguous in the original recording. Onsets are relative to the file start; no acquisition times exist.
+Patient numbers are shared with the atlas (see participants.json).
+
+## Participants
+
+Patients with drug-resistant focal epilepsy investigated with intracranial EEG at three tertiary epilepsy
+centres (Frauscher et al. 2018). Only channels judged by the authors to record normal activity (outside the
+epileptic zone and lesions, in grey matter) are included. `participants.tsv` holds only what the source
+publishes: the source patient number (1-110; participant label `sub-<3-digit number>`), sex and age at time
+of study (`PatientInformation.csv`), and the recording-centre code (first character of the source channel
+names: G, M or N; the source does not name the centres). No other clinical information exists in the source
+and none was added.
+
+## Channels and coordinates
+
+Every channel is a **bipolar** derivation between adjacent contacts of one electrode. `electrodes.tsv` has one
+row per bipolar channel, positioned at the **midpoint** of its two contacts, coordinates copied unchanged from
+the source. Channel names are the source names. Channel type SEEG for depth electrodes (source types D = DIXI,
+M = MNI homemade, A = AdTech), ECOG for subdural strips/grids (type G = AdTech).
+
+## Privacy
+
+The source files were already anonymised by the authors (EDF headers carry "X" placeholders and the date
+01-JAN-1970; no names, birth dates or recording dates). A byte-level review of every converted file and of
+`sourcedata/` found no participant identifiers. The only personal names are author attributions (the
+HFODetector.m author line and the PDF author field). The NIfTI volumes are brain templates, not participant
+images.
+
+## Conversion
+
+Conversion (iEEG-NEMAR campaign, lane F, 2026-10-06) is a lossless repack: every sample in the BrainVision
+`.eeg` files is bit-identical to the source arrays (606/606 recordings verified, raw bytes compared). No
+filtering, resampling, re-referencing, rescaling or channel selection was done. Channels absent in a stage
+(NaN columns in the source) are omitted from that recording, never filled. All original files are kept
+byte-identical under `sourcedata/` with SHA-256 checksums.

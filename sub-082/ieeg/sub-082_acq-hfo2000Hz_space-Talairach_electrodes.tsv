@@ -1,0 +1,17 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LOF1-LOF2	-9.192932141	40.12299892	2.117217096	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF1-LOF2
+LOF2-LOF3	-14.85057793	40.19652097	2.058174647	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF2-LOF3
+LOF6-LOF7	-37.48107584	40.4904453	1.821952128	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF6-LOF7
+LOF7-LOF8	-43.13871033	40.56385692	1.762854846	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF7-LOF8
+LOF8-LOF9	-48.79640138	40.63737872	1.703813063	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF8-LOF9
+LA5-LA6	-43.32805053	-4.361274358	-22.54697342	n/a	n/a	14	Superior temporal gyrus	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LA5-LA6
+LA6-LA7	-48.95029812	-3.880101433	-22.9695476	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LA6-LA7
+LA7-LA8	-54.57254578	-3.39892879	-23.39212787	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LA7-LA8
+LA8-LA9	-60.19485092	-2.917759841	-23.81478058	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LA8-LA9
+LH4-LH5	-50.56401829	-15.2575511	-17.69064658	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH4-LH5
+LH5-LH6	-56.20988422	-15.02195873	-17.38431474	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH5-LH6
+LH6-LH7	-61.85586331	-14.78636699	-17.07798124	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH6-LH7
+LH7-LH8	-67.501786	-14.55074802	-16.77165017	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH7-LH8
+LHp5-LHp6	-55.13769184	-28.30192462	-13.0390708	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LHp5-LHp6
+LHp6-LHp7	-60.78208617	-28.39357921	-12.62095812	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LHp6-LHp7
+LHp7-LHp8	-66.42642411	-28.48518446	-12.20283694	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LHp7-LHp8

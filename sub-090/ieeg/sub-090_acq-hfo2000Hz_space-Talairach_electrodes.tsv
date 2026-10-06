@@ -1,0 +1,20 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+RHp1-RHp2	34.24437429	-34.79347359	-10.09719734	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RHp1-RHp2
+RHp2-RHp3	38.64547262	-37.38912053	-8.179764896	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RHp2-RHp3
+RHp5-RHp6	51.84887669	-45.17609034	-2.42740906	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RHp5-RHp6
+RHp6-RHp7	56.2499753	-47.77174639	-0.509954789	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RHp6-RHp7
+RHp7-RHp8	60.65107386	-50.3674092	1.407474954	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RHp7-RHp8
+RHp8-RHp9	65.05222734	-52.96312512	3.324899404	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RHp8-RHp9
+RT11-RT12	49.07483689	-40.73065036	2.674678936	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RT11-RT12
+RT12-RT13	54.44964004	-41.04018152	3.298443409	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RT12-RT13
+RT13-RT14	59.82444274	-41.34970853	3.922146045	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RT13-RT14
+RT14-RT15	65.19919152	-41.65922468	4.545910572	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RT14-RT15
+RT15-RT16	70.5739404	-41.9687461	5.169675228	n/a	n/a	14	Superior temporal gyrus	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RT15-RT16
+RT21-RT22	41.87974806	-58.35906982	1.51334658	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RT21-RT22
+RT22-RT23	46.87928496	-60.37568813	1.640727673	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RT22-RT23
+RT23-RT24	51.8788219	-62.39230633	1.768114936	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RT23-RT24
+RT24-RT25	56.87830382	-64.40886733	1.895501218	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RT24-RT25
+RL1-RL2	15.7722359	-54.80943358	16.21208905	n/a	n/a	6	Medial parietal lobe	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RL1-RL2
+RL2-RL3	20.9533286	-56.21658537	16.89652111	n/a	n/a	6	Medial parietal lobe	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RL2-RL3
+RL3-RL4	26.13439425	-57.62373757	17.58095339	n/a	n/a	6	Medial parietal lobe	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RL3-RL4
+RL5-RL6	36.49657949	-60.43803061	18.94981725	n/a	n/a	5	Inferior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RL5-RL6

@@ -1,0 +1,8 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LFP1-2	-7.647368424	57.98511489	-5.812026625	n/a	n/a	10	Medial frontal cortex (incl medial segm of sup frontal g)	n/a	D	DIXI Medical (intracerebral depth electrodes)	LFP1-2
+LFP2-3	-10.32869587	57.54970648	-2.919520308	n/a	n/a	10	Medial frontal cortex (incl medial segm of sup frontal g)	n/a	D	DIXI Medical (intracerebral depth electrodes)	LFP2-3
+LFP8-9	-26.41654319	54.93854803	14.43566706	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LFP8-9
+LFP9-10	-29.09786809	54.50320046	17.3282283	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LFP9-10
+LAC1-2	-4.790811802	23.55756829	25.77153935	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	LAC1-2
+LOF1-2	-7.94726567	17.76906186	-13.93499847	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF1-2
+LOF14-15	-47.81196002	43.67827303	-3.564200977	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF14-15

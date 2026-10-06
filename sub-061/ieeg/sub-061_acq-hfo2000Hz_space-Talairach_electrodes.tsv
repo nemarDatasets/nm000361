@@ -1,0 +1,12 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+RPs1-RPs2	11.52589924	-55.79950812	18.00236453	n/a	n/a	6	Medial parietal lobe	n/a	D	DIXI Medical (intracerebral depth electrodes)	RPs1-RPs2
+RPs2-RPs3	11.90342964	-58.89885063	20.35034796	n/a	n/a	6	Medial parietal lobe	n/a	D	DIXI Medical (intracerebral depth electrodes)	RPs2-RPs3
+RCSMg9-RCSMg10	37.30943818	-50.26431906	43.60642606	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCSMg9-RCSMg10
+RCSMg10-RCSMg11	40.63633606	-51.51588914	45.03053156	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCSMg10-RCSMg11
+RCSMg11-RCSMg12	43.96323679	-52.7674088	46.45463113	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCSMg11-RCSMg12
+RCSMg12-RCSMg13	47.29013804	-54.01892921	47.87879056	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCSMg12-RCSMg13
+RCAg6-RCAg7	25.77716427	-65.57436221	50.16666877	n/a	n/a	4	Superior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCAg6-RCAg7
+RCAg7-RCAg8	29.06658406	-65.54512609	52.22165886	n/a	n/a	4	Superior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCAg7-RCAg8
+RCAg8-RCAg9	32.35600689	-65.51583634	54.27664265	n/a	n/a	4	Superior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCAg8-RCAg9
+RCAg9-RCAg10	35.64543149	-65.48653522	56.33174465	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCAg9-RCAg10
+RCAg10-RCAg11	38.93485128	-65.4572991	58.38673474	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCAg10-RCAg11

@@ -1,0 +1,4 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LOi1-LOi2	-16.52986886	-93.56376896	-0.107197806	n/a	n/a	2	Medial occipital	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOi1-LOi2
+LOs1-LOs2	-16.93385693	-85.03523888	13.69707932	n/a	n/a	2	Medial occipital	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOs1-LOs2
+LOs4-LOs5	-34.07244849	-87.68311444	16.25589036	n/a	n/a	1	Lateral occipital	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOs4-LOs5

@@ -1,0 +1,8 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	reference	status	status_description
+RLm8-RLm9	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+RLm9-RLm10	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+RLm10-RLm11	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+RLm11-RLm12	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+RLm12-RLm13	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+RLm13-RLm14	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+RLm14-RLm15	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)

@@ -1,0 +1,7 @@
+{
+  "iEEGCoordinateSystem": "Talairach",
+  "iEEGCoordinateUnits": "mm",
+  "iEEGCoordinateSystemDescription": "Talairach coordinates as stated by the source readme_HighSamplingRate.txt.",
+  "iEEGCoordinateProcessingDescription": "Each row is the MIDPOINT of a bipolar channel (\"Position: Talairach coordinates of the channels (midpoint of bipolar channels), in mm\"). Coordinates copied unchanged from the source. region_id/region_name refer to the 17-region segmentation shipped with the HFO dataset (labels.nii).",
+  "iEEGCoordinateProcessingReference": "Frauscher B et al. (2018) Ann Neurol 84:374-385, doi:10.1002/ana.25304"
+}

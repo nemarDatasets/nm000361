@@ -1,0 +1,16 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LA1-LA2	-27.37609142	-7.973142102	-13.96611173	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LA1-LA2
+LA2-LA3	-32.77183601	-6.855795651	-15.60608805	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LA2-LA3
+LA5-LA6	-48.95919353	-3.5038055	-20.52589792	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LA5-LA6
+LA6-LA7	-54.3549395	-2.386511961	-22.16587565	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LA6-LA7
+LA7-LA8	-59.75074121	-1.269164161	-23.80585631	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LA7-LA8
+LH2-LH3	-28.21274692	-14.62078556	-13.25213195	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH2-LH3
+LH3-LH4	-33.86243372	-14.00139076	-13.98124945	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH3-LH4
+LH4-LH5	-39.51223476	-13.38199327	-14.71037561	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH4-LH5
+LH6-LH7	-50.81178595	-12.14325193	-16.16854788	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH6-LH7
+LH7-LH8	-56.46158739	-11.52385439	-16.89766777	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH7-LH8
+LHp1-LHp2	-29.32958391	-26.72510969	-5.854963458	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LHp1-LHp2
+LHp2-LHp3	-34.82633931	-28.18608696	-6.193442171	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LHp2-LHp3
+LHp5-LHp6	-51.3166649	-32.56909677	-7.208881935	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LHp5-LHp6
+LHp6-LHp7	-56.8134227	-34.03015868	-7.547359893	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LHp6-LHp7
+LHp7-LHp8	-62.3101784	-35.49114653	-7.885838511	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LHp7-LHp8

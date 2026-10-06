@@ -1,0 +1,4 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	reference	status	status_description
+LOi1-LOi2	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+LOs1-LOs2	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)
+LOs4-LOs5	SEEG	µV	n/a	n/a	2000	bipolar	good	Channel with normal physiological activity from non-lesional tissue (source authors)

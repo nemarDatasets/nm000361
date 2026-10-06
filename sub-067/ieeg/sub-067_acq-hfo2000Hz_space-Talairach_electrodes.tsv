@@ -1,0 +1,8 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LOF11-LOF12	-38.37313542	39.84015259	9.087427234	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF11-LOF12
+LOF12-LOF13	-41.45972332	39.85586958	11.60811607	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF12-LOF13
+LOF13-LOF14	-44.54625492	39.87158924	14.12880922	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF13-LOF14
+LCA8-LCA9	-29.31885462	43.40300353	28.70730042	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCA8-LCA9
+LCA9-LCA10	-32.58577483	43.32073121	30.97145235	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCA9-LCA10
+LCA10-LCA11	-35.85264102	43.23851293	33.23559399	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCA10-LCA11
+LCA11-LCA12	-39.1195072	43.15629466	35.49973562	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCA11-LCA12

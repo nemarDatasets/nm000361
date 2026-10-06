@@ -1,0 +1,33 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LCa1-LCa2	-10.14543107	38.77819042	23.21652543	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa1-LCa2
+LCa5-LCa6	-22.92698396	37.66465922	31.86798419	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa5-LCa6
+LCa6-LCa7	-26.12239256	37.38624372	34.03082397	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa6-LCa7
+LCa7-LCa8	-29.31774724	37.10782958	36.19366493	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa7-LCa8
+LCa8-LCa9	-32.51315822	36.8294784	38.35655358	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa8-LCa9
+LCa9-LCa10	-35.70856794	36.55111862	40.51938441	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa9-LCa10
+LCa10-LCa11	-38.90392262	36.27270448	42.68222537	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa10-LCa11
+LCm1-LCm2	-10.97804722	5.522001043	40.56134382	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCm1-LCm2
+LCm5-LCm6	-24.23675615	8.10107957	47.93627043	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCm5-LCm6
+LCm6-LCm7	-27.55138624	8.74577207	49.77995641	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCm6-LCm7
+LCm7-LCm8	-30.86601999	9.390537488	51.6237491	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCm7-LCm8
+LCm9-LCm10	-37.49544667	10.68004706	55.31121528	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCm9-LCm10
+LCm10-LCm11	-40.81007915	11.32480388	57.15495014	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCm10-LCm11
+ROF1-ROF2	12.75175501	21.64776137	-15.89702695	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROF1-ROF2
+ROF6-ROF7	29.24734492	25.9412539	-6.989099613	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROF6-ROF7
+ROF7-ROF8	32.54649442	26.79997809	-5.207499672	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROF7-ROF8
+ROF8-ROF9	35.8456438	27.65870314	-3.425893948	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROF8-ROF9
+ROF9-ROF10	39.14474079	28.51741651	-1.644358793	n/a	n/a	12	Frontal operculum	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROF9-ROF10
+RCa6-RCa7	25.0864383	40.41987469	29.90892628	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCa6-RCa7
+RCa7-RCa8	27.87455355	41.36616151	32.49090696	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCa7-RCa8
+RCa8-RCa9	30.66266895	42.31249546	35.07282087	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCa8-RCa9
+RCa9-RCa10	33.45084064	43.25876645	37.65468707	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCa9-RCa10
+RCm1-RCm2	8.235355074	6.717881376	36.07501521	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCm1-RCm2
+RCm2-RCm3	11.4911538	7.530740697	37.96996995	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCm2-RCm3
+RCm6-RCm7	24.51445204	10.78240359	45.54975548	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCm6-RCm7
+RCm7-RCm8	27.77025092	11.59531004	47.44464345	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCm7-RCm8
+RCm10-RCm11	37.53775506	14.03393785	53.12944326	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCm10-RCm11
+RCm11-RCm12	40.79355379	14.84679717	55.024398	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	RCm11-RCm12
+RA6-RA7	47.43453641	6.678162048	-30.74973777	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RA6-RA7
+RA7-RA8	51.05025872	7.551795948	-31.5038552	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RA7-RA8
+RH8-RH9	58.39159348	-15.18960024	-23.17892301	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RH8-RH9
+RH9-RH10	62.1639832	-15.04224995	-23.11877434	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RH9-RH10

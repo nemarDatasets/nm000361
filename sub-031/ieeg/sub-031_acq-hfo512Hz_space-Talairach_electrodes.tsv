@@ -1,0 +1,7 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+v_1-v_2	-10.25921944	-45.84531486	21.07715946	n/a	n/a	6	Medial parietal lobe	n/a	D	DIXI Medical (intracerebral depth electrodes)	v_1-v_2
+b_1-b_2	-22.83542374	-23.99017469	-10.8655402	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	b_1-b_2
+b_2-b_3	-26.62689139	-24.04293963	-10.80851111	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	b_2-b_3
+b_3-b_4	-30.41825074	-24.09570212	-10.75148015	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	b_3-b_4
+b_4-b_5	-34.20971737	-24.148521	-10.69443944	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	b_4-b_5
+q_1-q_2	-32.16532782	18.6899101	11.97878653	n/a	n/a	12	Frontal operculum	n/a	D	DIXI Medical (intracerebral depth electrodes)	q_1-q_2

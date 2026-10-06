@@ -1,0 +1,10 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LCa1-LCa2	-11.72857241	26.91340793	21.99624595	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCa1-LCa2
+LCa5-LCa6	-33.87507312	25.80103028	22.36787682	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCa5-LCa6
+LCa6-LCa7	-39.41166963	25.52296375	22.46077353	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCa6-LCa7
+LCa7-LCa8	-44.9483238	25.244893	22.55372839	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCa7-LCa8
+LSMA3-LSMA4	-18.52365029	9.920580999	51.33979323	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LSMA3-LSMA4
+LSMA4-LSMA5	-22.57352721	11.98180213	54.79858349	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LSMA4-LSMA5
+LSMA5-LSMA6	-26.62340413	14.04302325	58.25737376	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LSMA5-LSMA6
+LSMA6-LSMA7	-30.6732271	16.10429231	61.71623281	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LSMA6-LSMA7
+LSMA7-LSMA8	-34.72304926	18.16561554	65.17509774	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LSMA7-LSMA8

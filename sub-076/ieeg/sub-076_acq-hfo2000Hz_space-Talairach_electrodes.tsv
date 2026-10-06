@@ -1,0 +1,15 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LOF1-LOF2	-9.833223922	24.47041893	-5.955637021	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF1-LOF2
+LOF2-LOF3	-15.39037663	24.86017213	-5.216103041	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF2-LOF3
+LOF3-LOF4	-20.94752828	25.24997946	-4.476507539	n/a	n/a	7	Insula	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF3-LOF4
+LOF4-LOF5	-26.50467993	25.63978678	-3.736912036	n/a	n/a	7	Insula	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF4-LOF5
+LOF5-LOF6	-32.06177644	26.02953723	-2.997382231	n/a	n/a	7	Insula	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF5-LOF6
+LOF6-LOF7	-37.61887437	26.41928753	-2.257803464	n/a	n/a	12	Frontal operculum	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF6-LOF7
+LOF7-LOF8	-43.17608169	26.80909766	-1.518222148	n/a	n/a	12	Frontal operculum	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF7-LOF8
+LOF8-LOF9	-48.73328757	27.19890795	-0.778689793	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF8-LOF9
+LCp1-LCp2	-10.83361284	-42.303841	40.73846222	n/a	n/a	6	Medial parietal lobe	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCp1-LCp2
+LCp2-LCp3	-16.35824585	-42.54324103	41.78524556	n/a	n/a	6	Medial parietal lobe	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCp2-LCp3
+LCp4-LCp5	-27.40745405	-43.02204367	43.87875299	n/a	n/a	4	Superior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCp4-LCp5
+LCp5-LCp6	-32.93208421	-43.26138938	44.92553665	n/a	n/a	4	Superior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCp5-LCp6
+LIa6-LIa7	-32.92545395	9.996208653	22.2284667	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LIa6-LIa7
+LIa7-LIa8	-32.89105754	12.526759	27.6487551	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LIa7-LIa8

@@ -1,0 +1,36 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+r_6-r_7	-47.08225378	-0.539855242	26.94639565	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	r_6-r_7
+r_7-r_8	-50.84873053	-0.507149061	26.81417836	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	r_7-r_8
+r_8-r_9	-54.61520727	-0.47444288	26.68196108	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	r_8-r_9
+r_9-r_10	-58.38168563	-0.441721243	26.54962615	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	r_9-r_10
+s_2-s_3	-32.40655393	-16.3548271	27.19314893	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	s_2-s_3
+s_6-s_7	-47.47385883	-16.44490074	26.70409511	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	s_6-s_7
+s_7-s_8	-51.24072525	-16.46740317	26.58180463	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	s_7-s_8
+s_8-s_9	-55.00748507	-16.4899285	26.4595091	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	s_8-s_9
+s_9-s_10	-58.77429723	-16.5124473	26.33727533	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	s_9-s_10
+i_1-i_2	-0.904233264	-4.56623521	43.11469808	n/a	n/a	9	Supplementary motor cortex	n/a	D	DIXI Medical (intracerebral depth electrodes)	i_1-i_2
+i_2-i_3	-4.668586112	-4.428854312	43.24782483	n/a	n/a	9	Supplementary motor cortex	n/a	D	DIXI Medical (intracerebral depth electrodes)	i_2-i_3
+i_8-i_9	-27.25465053	-3.604596582	44.04897816	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	i_8-i_9
+i_9-i_10	-31.01897914	-3.467293866	44.18269276	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	i_9-i_10
+i_10-i_11	-34.78330775	-3.329991149	44.31640735	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	i_10-i_11
+i_11-i_12	-38.54763636	-3.192688433	44.45012195	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	i_11-i_12
+i_12-i_13	-42.31196497	-3.055385716	44.58383655	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	i_12-i_13
+i_13-i_14	-46.07629873	-2.917949362	44.71697089	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	i_13-i_14
+i_14-i_15	-49.84062437	-2.780590291	44.85069349	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	i_14-i_15
+m_1-m_2	-3.123143595	-12.24693398	63.11872033	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	m_1-m_2
+m_2-m_3	-6.890841146	-12.23363409	63.03338426	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	m_2-m_3
+m_3-m_4	-10.65852794	-12.2203348	62.94804793	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	m_3-m_4
+m_6-m_7	-21.96167171	-12.18035545	62.69145256	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	m_6-m_7
+m_7-m_8	-25.72935885	-12.16703583	62.60551973	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	m_7-m_8
+m_8-m_9	-29.4970349	-12.15373714	62.52018313	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	m_8-m_9
+m_9-m_10	-33.2647647	-12.14043546	62.43484786	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	m_9-m_10
+m_10-m_11	-37.03250261	-12.12705649	62.34892435	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	m_10-m_11
+m_11-m_12	-40.80017866	-12.1137578	62.26358776	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	m_11-m_12
+n_1-n_2	-3.351611045	-28.41376364	54.53970536	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	n_1-n_2
+n_2-n_3	-7.119260686	-28.46603732	54.6122427	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	n_2-n_3
+n_3-n_4	-10.88686538	-28.51824967	54.68418863	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	n_3-n_4
+n_8-n_9	-29.7250126	-28.7795656	55.0450829	n/a	n/a	4	Superior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	n_8-n_9
+n_9-n_10	-33.49263605	-28.83185375	55.11761774	n/a	n/a	4	Superior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	n_9-n_10
+n_10-n_11	-37.26031325	-28.88413889	55.19015391	n/a	n/a	4	Superior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	n_10-n_11
+n_11-n_12	-41.02789107	-28.93635274	55.26209918	n/a	n/a	4	Superior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	n_11-n_12
+n_12-n_13	-44.7955253	-28.98861432	55.33403857	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	n_12-n_13

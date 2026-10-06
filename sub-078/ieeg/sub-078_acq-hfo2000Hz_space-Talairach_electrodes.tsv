@@ -1,0 +1,17 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LH3-LH4	-38.22485111	-11.7218529	-17.93785571	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH3-LH4
+LH5-LH6	-48.09986729	-11.5479174	-18.12198809	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH5-LH6
+LH6-LH7	-53.0373572	-11.46091945	-18.21396937	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH6-LH7
+LH7-LH8	-57.97494554	-11.3739229	-18.30596011	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH7-LH8
+LH8-LH9	-62.91242714	-11.28693247	-18.39805442	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH8-LH9
+LOF1-LOF2	-5.263910979	29.94434715	-16.787846	n/a	n/a	10	Medial frontal cortex (incl medial segm of sup frontal g)	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF1-LOF2
+LOF2-LOF3	-9.434995081	31.69761324	-14.53761665	n/a	n/a	10	Medial frontal cortex (incl medial segm of sup frontal g)	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF2-LOF3
+LOF3-LOF4	-13.60612425	33.45087487	-12.28744856	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LOF3-LOF4
+LCa2-LCa3	-12.09817001	34.75709889	16.55824206	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCa2-LCa3
+LCa6-LCa7	-31.70497726	34.91518571	19.34193489	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCa6-LCa7
+LCs2-LCs3	-15.63449825	22.11768396	31.40086769	n/a	n/a	9	Supplementary motor cortex	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCs2-LCs3
+LCs5-LCs6	-29.78038093	25.4431792	34.65768799	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCs5-LCs6
+LCs6-LCs7	-34.49570896	26.55162998	35.7433149	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LCs6-LCs7
+LIp1-LIp2	-31.06193632	-18.47556242	14.1566113	n/a	n/a	7	Insula	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LIp1-LIp2
+LIp2-LIp3	-30.71133851	-21.94850393	18.11274879	n/a	n/a	7	Insula	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LIp2-LIp3
+LIp3-LIp4	-30.36073571	-25.42144995	22.06881845	n/a	n/a	5	Inferior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LIp3-LIp4

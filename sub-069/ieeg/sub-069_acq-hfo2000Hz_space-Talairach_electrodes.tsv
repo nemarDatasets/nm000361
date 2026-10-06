@@ -1,0 +1,9 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LOF7-LOF8	-27.32187691	32.91754204	-2.022838189	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF7-LOF8
+LOF8-LOF9	-30.1622241	33.60585293	0.600088714	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF8-LOF9
+LOF9-LOF10	-33.00262294	34.2942201	3.223018058	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF9-LOF10
+LCa9-LCa10	-28.96534066	35.77051891	26.62953066	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa9-LCa10
+LCm1-LCm2	-8.65611034	20.97735317	27.69787942	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCm1-LCm2
+LCm2-LCm3	-11.69648883	21.01661564	30.13540216	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCm2-LCm3
+LCm3-LCm4	-14.73682656	21.05582404	32.57286227	n/a	n/a	9	Supplementary motor cortex	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCm3-LCm4
+LH7-LH8	-51.6754424	-19.37926049	-17.70902939	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LH7-LH8

@@ -1,0 +1,21 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LOF1-LOF2	-10.08980512	27.33687921	-12.21056316	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF1-LOF2
+LCa1-LCa2	-14.38317841	42.4598655	12.03115289	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa1-LCa2
+LCa2-LCa3	-17.85315373	42.93915765	12.08706386	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa2-LCa3
+LCa7-LCa8	-35.20289531	45.33564268	12.36697705	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa7-LCa8
+LCa8-LCa9	-38.67284578	45.81493759	12.42288686	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa8-LCa9
+LCa9-LCa10	-42.1428395	46.29418647	12.47886932	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa9-LCa10
+LCa10-LCa11	-45.61278823	46.77350177	12.53489665	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCa10-LCa11
+LCp1-LCp2	-12.44603971	-41.9965971	24.24414922	n/a	n/a	6	Medial parietal lobe	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCp1-LCp2
+LCp11-LCp12	-46.49177025	-47.78717387	31.37599495	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCp11-LCp12
+LCp12-LCp13	-49.89633109	-48.36624788	32.08919403	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCp12-LCp13
+LCp13-LCp14	-53.30089194	-48.9453219	32.80239311	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	LCp13-LCp14
+LI6-LI7	-36.16940668	21.23618045	8.181655295	n/a	n/a	12	Frontal operculum	n/a	D	DIXI Medical (intracerebral depth electrodes)	LI6-LI7
+LI7-LI8	-36.07178015	22.52948285	12.10177046	n/a	n/a	12	Frontal operculum	n/a	D	DIXI Medical (intracerebral depth electrodes)	LI7-LI8
+LFus1-LFus2	-38.27707935	-46.70269176	-15.55376816	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	LFus1-LFus2
+LFus2-LFus3	-41.75681344	-47.09936136	-15.51491908	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	LFus2-LFus3
+LFus3-LFus4	-45.23659666	-47.49604153	-15.47606651	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	LFus3-LFus4
+LFus4-LFus5	-48.71632932	-47.892706	-15.43715751	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LFus4-LFus5
+LFus5-LFus6	-52.19606254	-48.28936539	-15.39824967	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LFus5-LFus6
+LFus6-LFus7	-55.67584632	-48.6860405	-15.35939826	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LFus6-LFus7
+LFus7-LFus8	-59.15558041	-49.08271009	-15.32054917	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LFus7-LFus8

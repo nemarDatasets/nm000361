@@ -1,0 +1,14 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+ROF1-ROF2	8.055047414	32.63386669	-3.734376941	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	ROF1-ROF2
+ROF6-ROF7	33.4133313	37.7988825	-0.291045844	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	ROF6-ROF7
+ROF7-ROF8	38.48499406	38.83189411	0.397607558	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	ROF7-ROF8
+ROF8-ROF9	43.55666126	39.86495797	1.086252675	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	ROF8-ROF9
+RCa1-RCa2	0.512674998	20.92869512	31.04328703	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCa1-RCa2
+RCa2-RCa3	5.641316611	21.86798133	31.07136833	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCa2-RCa3
+RCa3-RCa4	10.76995773	22.80725978	31.09939374	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCa3-RCa4
+RCa4-RCa5	15.89865521	23.74658594	31.12741104	n/a	n/a	8	Anterior and middle cingulate	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCa4-RCa5
+RCp1-RCp2	10.67146543	-41.40620107	31.45810876	n/a	n/a	6	Medial parietal lobe	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCp1-RCp2
+RCp2-RCp3	15.64942926	-42.92278648	31.88356059	n/a	n/a	6	Medial parietal lobe	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCp2-RCp3
+RCp8-RCp9	45.51716734	-52.02214019	34.43653265	n/a	n/a	5	Inferior parietal lobule	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RCp8-RCp9
+RIi7-RIi8	40.45926258	-10.26265537	16.07484499	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RIi7-RIi8
+RIi8-RIi9	40.23397725	-13.94324476	20.13426164	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	RIi8-RIi9

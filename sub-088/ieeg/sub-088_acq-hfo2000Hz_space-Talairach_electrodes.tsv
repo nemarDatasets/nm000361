@@ -1,0 +1,36 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LOF1-LOF2	-11.23523343	32.57855258	-12.99961722	n/a	n/a	10	Medial frontal cortex (incl medial segm of sup frontal g)	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF1-LOF2
+LOF2-LOF3	-14.62133024	33.338801	-11.54724802	n/a	n/a	10	Medial frontal cortex (incl medial segm of sup frontal g)	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF2-LOF3
+LOF7-LOF8	-31.55180245	37.14118446	-4.285769931	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LOF7-LOF8
+LA6-LA7	-47.31807622	0.061136526	-24.99136997	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LA6-LA7
+LA7-LA8	-50.95296015	0.414951092	-25.64424515	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LA7-LA8
+LA8-LA9	-54.58784699	0.768717114	-26.29716239	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LA8-LA9
+LHa5-LHa6	-44.23377189	-21.64588094	-21.05517962	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	LHa5-LHa6
+LHa6-LHa7	-47.91759024	-21.39483417	-20.83810848	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LHa6-LHa7
+LHa7-LHa8	-51.60151375	-21.14372242	-20.6210603	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LHa7-LHa8
+LHa8-LHa9	-55.28538186	-20.89261015	-20.40395147	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LHa8-LHa9
+LHa9-LHa10	-58.96919447	-20.64148183	-20.1867891	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LHa9-LHa10
+LHp5-LHp6	-42.45175733	-45.57091453	-10.68376334	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	LHp5-LHp6
+LHp6-LHp7	-46.12466369	-45.97996942	-10.49962349	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	LHp6-LHp7
+LHp7-LHp8	-49.79757258	-46.38899522	-10.31556121	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LHp7-LHp8
+LHp8-LHp9	-53.47047894	-46.79805012	-10.13142136	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LHp8-LHp9
+LHp9-LHp10	-57.14338808	-47.20712768	-9.947335402	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LHp9-LHp10
+LHp10-LHp11	-60.81629721	-47.61620524	-9.763249449	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LHp10-LHp11
+LHp11-LHp12	-64.48920635	-48.0252828	-9.579163496	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	LHp11-LHp12
+ROF1-ROF2	13.29468519	28.67191849	-21.45047528	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROF1-ROF2
+ROF2-ROF3	16.64376515	29.4775613	-19.91989216	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROF2-ROF3
+ROF3-ROF4	19.99284512	30.28320412	-18.38930904	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROF3-ROF4
+ROF4-ROF5	23.34192534	31.08889869	-16.8587496	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROF4-ROF5
+ROF5-ROF6	26.6910053	31.8945415	-15.32816649	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROF5-ROF6
+ROF6-ROF7	30.040138	32.70018288	-13.7975861	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROF6-ROF7
+ROF7-ROF8	33.38927347	33.50584692	-12.2669518	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROF7-ROF8
+ROF8-ROF9	36.73831404	34.31204765	-10.73636345	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROF8-ROF9
+RHa6-RHa7	52.17711802	-27.16350575	-19.07088189	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RHa6-RHa7
+RHa7-RHa8	55.82482693	-26.53884038	-19.2186432	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RHa7-RHa8
+RHa8-RHa9	59.47248335	-25.91412181	-19.36642547	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RHa8-RHa9
+RHa9-RHa10	63.12014003	-25.28935147	-19.51423141	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RHa9-RHa10
+RHp6-RHp7	50.55108874	-35.60140533	-5.114362853	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RHp6-RHp7
+RHp7-RHp8	54.22979677	-35.89428543	-4.850902152	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RHp7-RHp8
+RHp8-RHp9	57.90855778	-36.18711521	-4.587467856	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RHp8-RHp9
+RHp9-RHp10	61.58726883	-36.47992089	-4.32397693	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RHp9-RHp10
+RHp10-RHp11	65.26597963	-36.77277833	-4.060462327	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	RHp10-RHp11

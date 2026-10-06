@@ -1,0 +1,4 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+v12-v13	47.74217053	-32.87492277	22.16340327	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	v12-v13
+y13-y14	37.65132567	-22.81252832	35.98428375	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	y13-y14
+y14-y15	37.62442154	-24.48366295	39.89201663	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	y14-y15

@@ -1,0 +1,10 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LA4-LA5	-43.92176591	-2.363984775	-26.18350251	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LA4-LA5
+LA5-LA6	-49.4635458	-1.938447709	-26.62792971	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LA5-LA6
+LA6-LA7	-55.00526992	-1.512911043	-27.07235623	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LA6-LA7
+LA7-LA8	-60.54699344	-1.087379584	-27.51684109	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LA7-LA8
+LA8-LA9	-66.08877393	-0.661837311	-27.96120995	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LA8-LA9
+LH5-LH6	-61.77517172	-19.78387262	-27.21287114	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH5-LH6
+LH6-LH7	-67.15510022	-19.20708868	-28.61448535	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LH6-LH7
+LHp5-LHp6	-53.45818791	-41.14348867	-9.719259792	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LHp5-LHp6
+LHp6-LHp7	-58.84049257	-42.37836465	-9.0354782	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	M	Montreal Neurological Institute homemade intracerebral electrodes	LHp6-LHp7

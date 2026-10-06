@@ -1,0 +1,10 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+l9-l10	64.51559026	6.435062776	-31.92395087	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	l9-l10
+x6-x7	32.68576581	17.68988358	14.43485739	n/a	n/a	12	Frontal operculum	n/a	D	DIXI Medical (intracerebral depth electrodes)	x6-x7
+x13-x14	22.78426043	22.47576814	42.26375497	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	x13-x14
+x14-x15	21.36971068	23.15943342	46.23934349	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	x14-x15
+q1-q2	33.56631308	11.97362764	19.2212568	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	q1-q2
+q2-q3	37.34985512	12.49061789	20.04701744	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	q2-q3
+q3-q4	41.13339685	13.00760214	20.87271625	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	q3-q4
+q6-q7	52.48401624	14.55840657	23.34989618	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	q6-q7
+q7-q8	56.26755593	15.07533938	24.17560222	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	q7-q8

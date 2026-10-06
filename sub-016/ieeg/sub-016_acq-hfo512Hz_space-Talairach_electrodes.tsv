@@ -1,0 +1,10 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+j1-j2	3.06746583	-24.93862724	59.57843232	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	j1-j2
+j12-j13	46.62105122	-25.83374197	61.2989259	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	j12-j13
+b1-b2	2.256329918	-9.904012277	62.94493235	n/a	n/a	9	Supplementary motor cortex	n/a	D	DIXI Medical (intracerebral depth electrodes)	b1-b2
+b4-b5	14.12340269	-10.54733086	63.28192331	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	b4-b5
+b5-b6	18.079152	-10.7617723	63.39425713	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	b5-b6
+b6-b7	22.03484213	-10.97619763	63.5066468	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	b6-b7
+b7-b8	25.99053514	-11.19063161	63.61897692	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	b7-b8
+b10-b11	37.85760741	-11.83394427	63.95608797	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	b10-b11
+b11-b12	41.81330021	-12.04838386	64.0684184	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	b11-b12

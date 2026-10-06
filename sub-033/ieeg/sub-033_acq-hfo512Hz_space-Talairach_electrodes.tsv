@@ -1,0 +1,9 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+b2-b3	30.51990049	-19.7114159	-14.84053267	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	b2-b3
+r1-r2	34.57728505	3.556686005	12.75159128	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	r1-r2
+r2-r3	38.23774164	3.775462415	12.893616	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	r2-r3
+r3-r4	41.89824962	3.994140464	13.03566423	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	r3-r4
+r4-r5	45.55875833	4.212808672	13.1776561	n/a	n/a	11	Central operculum and opercular part of inf frontal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	r4-r5
+r5-r6	49.21921513	4.431526233	13.31963575	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	r5-r6
+r6-r7	52.87967121	4.650253635	13.46167178	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	r6-r7
+r7-r8	56.5401797	4.868980691	13.6037087	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	r7-r8

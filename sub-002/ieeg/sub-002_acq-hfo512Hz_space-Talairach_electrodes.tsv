@@ -1,0 +1,16 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+h1-h2	3.005873812	-2.380641139	39.66588553	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	h1-h2
+h2-h3	6.928992991	-2.438430853	39.64842737	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	h2-h3
+h3-h4	10.85207854	-2.496219984	39.63096897	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	h3-h4
+h13-h14	50.08315562	-3.074125717	39.45673214	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	h13-h14
+h14-h15	54.00631363	-3.131916205	39.43933168	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	h14-h15
+h15-h16	57.9294156	-3.189705723	39.42193081	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	h15-h16
+m1-m2	1.677472721	9.235385338	57.01385653	n/a	n/a	9	Supplementary motor cortex	n/a	D	DIXI Medical (intracerebral depth electrodes)	m1-m2
+t1-t2	37.764732	6.823055795	-4.21865433	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	t1-t2
+t2-t3	41.68347116	6.647706834	-4.225169351	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	t2-t3
+t3-t4	45.60221173	6.472402834	-4.231746796	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	t3-t4
+t4-t5	49.52095118	6.297048984	-4.238318672	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	t4-t5
+t5-t6	53.43969063	6.121695133	-4.244890548	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	t5-t6
+t6-t7	57.35848613	5.946340312	-4.251462019	n/a	n/a	15	Middle and inferior temporal gyrus, temporal pole, and planum polare	n/a	D	DIXI Medical (intracerebral depth electrodes)	t6-t7
+b1-b2	26.53478464	-23.39788238	-13.9590696	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	b1-b2
+b2-b3	30.45823746	-23.40867042	-14.00129969	n/a	n/a	17	Hippocampus, amygdala, fusiform and parahipocampal g	n/a	D	DIXI Medical (intracerebral depth electrodes)	b2-b3

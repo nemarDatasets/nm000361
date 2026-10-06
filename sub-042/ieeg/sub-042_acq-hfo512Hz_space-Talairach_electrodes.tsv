@@ -1,0 +1,4 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+o1-o2	13.57446555	-70.46956031	3.091090618	n/a	n/a	2	Medial occipital	n/a	D	DIXI Medical (intracerebral depth electrodes)	o1-o2
+o8-o9	40.41027747	-67.69858879	4.024218028	n/a	n/a	1	Lateral occipital	n/a	D	DIXI Medical (intracerebral depth electrodes)	o8-o9
+s1-s2	12.0684842	-66.93371153	17.76471295	n/a	n/a	2	Medial occipital	n/a	D	DIXI Medical (intracerebral depth electrodes)	s1-s2

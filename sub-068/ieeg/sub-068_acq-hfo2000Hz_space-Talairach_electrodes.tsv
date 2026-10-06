@@ -1,0 +1,8 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+RLm8-RLm9	38.03020861	9.75878258	41.12453353	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	RLm8-RLm9
+RLm9-RLm10	42.02586526	9.216461249	40.53718227	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	RLm9-RLm10
+RLm10-RLm11	46.02152191	8.674139917	39.949831	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	RLm10-RLm11
+RLm11-RLm12	50.0171784	8.131818668	39.36248545	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	RLm11-RLm12
+RLm12-RLm13	54.01283761	7.589441642	38.77512937	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	RLm12-RLm13
+RLm13-RLm14	58.00849667	7.047064698	38.18777901	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	RLm13-RLm14
+RLm14-RLm15	62.00421153	6.504745687	37.60042927	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	RLm14-RLm15

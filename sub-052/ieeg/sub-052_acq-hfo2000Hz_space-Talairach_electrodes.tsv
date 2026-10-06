@@ -1,0 +1,26 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+LIp1-LIp2	-35.30891249	9.751545193	-5.282602643	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	LIp1-LIp2
+LIp2-LIp3	-34.78759416	8.047776361	-1.831015928	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	LIp2-LIp3
+LIp3-LIp4	-34.26627624	6.343964047	1.620601052	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	LIp3-LIp4
+LIp4-LIp5	-33.7450118	4.640189735	5.072152043	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	LIp4-LIp5
+LIp5-LIp6	-33.22374736	2.936415422	8.523703034	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	LIp5-LIp6
+LIp6-LIp7	-32.70243271	1.232606176	11.97525969	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	LIp6-LIp7
+LIp7-LIp8	-32.1811179	-0.471198393	15.42681501	n/a	n/a	7	Insula	n/a	D	DIXI Medical (intracerebral depth electrodes)	LIp7-LIp8
+LSMAa2-LSMAa3	-11.77048502	7.071444185	51.04348409	n/a	n/a	9	Supplementary motor cortex	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAa2-LSMAa3
+LSMAa3-LSMAa4	-11.56834631	5.291349923	54.481554	n/a	n/a	9	Supplementary motor cortex	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAa3-LSMAa4
+LSMAa4-LSMAa5	-11.36625737	3.511304626	57.91961422	n/a	n/a	9	Supplementary motor cortex	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAa4-LSMAa5
+LSMAa6-LSMAa7	-10.96197907	-0.048856491	64.79574619	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAa6-LSMAa7
+LSMAa7-LSMAa8	-10.75983881	-1.828903325	68.23380253	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAa7-LSMAa8
+LSMAa8-LSMAa9	-10.55764821	-3.608981071	71.67186339	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAa8-LSMAa9
+LSMAa9-LSMAa10	-10.35550562	-5.389059693	75.10998827	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAa9-LSMAa10
+LSMAp1-LSMAp2	-10.04583419	-6.846144367	37.6948526	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAp1-LSMAp2
+LSMAp2-LSMAp3	-10.3215092	-8.154824763	41.42220601	n/a	n/a	8	Anterior and middle cingulate	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAp2-LSMAp3
+LSMAp3-LSMAp4	-10.5972854	-9.463458679	45.14955478	n/a	n/a	9	Supplementary motor cortex	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAp3-LSMAp4
+LSMAp4-LSMAp5	-10.87300986	-10.77208076	48.87689585	n/a	n/a	9	Supplementary motor cortex	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAp4-LSMAp5
+LSMAp5-LSMAp6	-11.14873584	-12.0807496	52.60425028	n/a	n/a	9	Supplementary motor cortex	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAp5-LSMAp6
+LSMAp8-LSMAp9	-11.97591381	-16.00675615	63.78631358	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAp8-LSMAp9
+LSMAp9-LSMAp10	-12.25169001	-17.31539006	67.51366235	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAp9-LSMAp10
+LSMAp10-LSMAp11	-12.52746774	-18.62407075	71.24102449	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAp10-LSMAp11
+LSMAp11-LSMAp12	-12.80319791	-19.93276459	74.96832662	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAp11-LSMAp12
+LSMAp12-LSMAp13	-13.07887307	-21.24144966	78.69568137	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAp12-LSMAp13
+LSMAp13-LSMAp14	-13.35465081	-22.55013035	82.42304351	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	LSMAp13-LSMAp14

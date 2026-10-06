@@ -1,0 +1,51 @@
+{
+  "Name": "MNI Open iEEG Atlas: high-sampling-rate NREM sleep sEEG (normal high-frequency oscillations)",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "License": "CC-BY-NC-4.0",
+  "Authors": [
+    "Birgit Frauscher",
+    "Nicolás von Ellenrieder",
+    "Rina Zelmann",
+    "Christine Rogers",
+    "Dang Khoa Nguyen",
+    "Philippe Kahane",
+    "François Dubeau",
+    "Jean Gotman"
+  ],
+  "Acknowledgements": "Data published by the authors in the MNI Open iEEG Atlas (https://mni-open-ieegatlas.research.mcgill.ca/), Montreal Neurological Institute. BIDS conversion for NEMAR by Bruno Aristimunha's iEEG-NEMAR campaign.",
+  "HowToAcknowledge": "Cite Frauscher B, von Ellenrieder N, Zelmann R, Rogers C, Nguyen DK, Kahane P, Dubeau F, Gotman J. High-Frequency Oscillations in the Normal Human Brain. Ann Neurol 2018;84(3):374-385. doi:10.1002/ana.25304. The source asks: \"Please cite this paper if you use the data in your work.\"",
+  "Funding": [
+    "Savoy Epilepsy Foundation",
+    "Botterell Powell's Foundation",
+    "Canadian Institutes of Health Research",
+    "Fonds de la Recherche en Santé du Québec"
+  ],
+  "ReferencesAndLinks": [
+    "https://mni-open-ieegatlas.research.mcgill.ca/",
+    "https://doi.org/10.1002/ana.25304",
+    "https://doi.org/10.1093/brain/awy035",
+    "https://doi.org/10.5281/zenodo.7191089"
+  ],
+  "Keywords": [
+    "intracranial EEG",
+    "stereo-EEG",
+    "high-frequency oscillations",
+    "ripples",
+    "NREM sleep",
+    "normal brain activity",
+    "MNI"
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://mni-open-ieegatlas.research.mcgill.ca/",
+      "Version": "HFOsInTheNormalHumanBrain.zip (members dated 2018-07-31), downloaded 2026-10-06"
+    }
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "laneF_convert_ieeg008.py + laneF_split_ieeg008.py (iEEG-NEMAR campaign, lane F)",
+      "Description": "Lossless repack of the source int16 arrays into BrainVision INT_16 with resolution = source Gain (µV per unit); zero buffers/padding detected and listed in events.tsv."
+    }
+  ]
+}

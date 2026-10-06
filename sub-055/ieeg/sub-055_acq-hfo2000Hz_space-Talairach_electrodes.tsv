@@ -1,0 +1,5 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+RPs8-RPs9	25.62551954	-47.11137355	64.43121136	n/a	n/a	4	Superior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	RPs8-RPs9
+ROi5-ROi6	33.8305977	-83.59479888	2.197349952	n/a	n/a	1	Lateral occipital	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROi5-ROi6
+ROi6-ROi7	37.97228336	-83.3895564	2.848253908	n/a	n/a	1	Lateral occipital	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROi6-ROi7
+ROi7-ROi8	42.11396929	-83.18432623	3.499097548	n/a	n/a	1	Lateral occipital	n/a	D	DIXI Medical (intracerebral depth electrodes)	ROi7-ROi8

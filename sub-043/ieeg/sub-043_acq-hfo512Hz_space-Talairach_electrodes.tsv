@@ -1,0 +1,13 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+v11-v12	45.52125292	-32.28981601	32.26094019	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	v11-v12
+v12-v13	49.36165402	-32.3474893	32.55293421	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	v12-v13
+v13-v14	53.2020545	-32.40520675	32.84499714	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	v13-v14
+v14-v15	57.04240068	-32.46293293	33.13700004	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	v14-v15
+v15-v16	60.88274686	-32.52065911	33.42900293	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	v15-v16
+w12-w13	49.25745534	-51.22610807	24.52791069	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	w12-w13
+w13-w14	53.10294714	-51.11559298	24.69350744	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	w13-w14
+p8-p9	34.68841575	-54.65104396	45.41330316	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	p8-p9
+p9-p10	38.52773477	-54.3977819	45.5462557	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	p9-p10
+p10-p11	42.367108	-54.14445841	45.67925864	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	p10-p11
+p11-p12	46.20648131	-53.89118763	45.8122712	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	p11-p12
+p12-p13	50.04579962	-53.63791702	45.94528302	n/a	n/a	5	Inferior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	p12-p13

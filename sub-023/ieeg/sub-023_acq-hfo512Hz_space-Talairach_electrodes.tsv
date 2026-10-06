@@ -1,0 +1,8 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+h12-h13	43.99262676	1.080895156	34.54789654	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	h12-h13
+h13-h14	47.87674767	1.26476914	34.67764137	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	h13-h14
+g12-g13	44.52111525	34.76239975	22.8218958	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	g12-g13
+g13-g14	48.41126486	34.8425516	22.80917348	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	g13-g14
+f9-f10	31.78174735	47.91225367	15.56268943	n/a	n/a	13	Superior, middle, orbital, and anterior part of lateral frontal ctx	n/a	D	DIXI Medical (intracerebral depth electrodes)	f9-f10
+z12-z13	37.72147808	-33.56339414	43.24994897	n/a	n/a	3	Pre and postcentral gyri	n/a	D	DIXI Medical (intracerebral depth electrodes)	z12-z13
+z16-z17	37.38874915	-41.45880758	57.12724748	n/a	n/a	4	Superior parietal lobule	n/a	D	DIXI Medical (intracerebral depth electrodes)	z16-z17

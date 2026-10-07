@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "MNI Open iEEG Atlas: high-sampling-rate NREM sleep sEEG (normal high-frequency oscillations)",
-  "description": "Stereo-EEG recordings of non-REM (N2/N3) sleep at original sampling rates (512, 1024 and 2000 Hz) from 71 patients with drug-resistant focal epilepsy, released through the MNI Open iEEG Atlas. Only bipolar channels judged to record normal physiological activity outside the epileptic zone and lesions are included (1152 channels, with Talairach coordinates and 17 brain regions). The data support normative analysis of high-frequency oscillations (ripples, fast ripples) across cortical regions.",
-  "methods_description": "Clinical stereo-EEG depth recordings (DIXI or MNI homemade electrodes) from patients at tertiary epilepsy centres, stored as bipolar derivations between adjacent contacts. Artifact-free N2/N3 sleep sections of about 20 minutes were selected. Source int16 data were repacked losslessly into BrainVision format with resolution equal to the source gain. Channel positions are the midpoints of contact pairs in Talairach space.",
+  "description": "Stereo-EEG recordings of non-REM (N2/N3) sleep at original sampling rates (512, 1024 and 2000 Hz) from 71 patients with drug-resistant focal epilepsy, released through the MNI Open iEEG Atlas. Only bipolar channels judged to record normal physiological activity outside the epileptic zone and lesions are included (1152 channels), with Talairach coordinates and 17 brain regions. The data support normative analyses of high-frequency oscillations (ripples, fast ripples) across cortical regions.",
+  "methods_description": "Depth-electrode (DIXI or MNI homemade) stereo-EEG recorded during clinical monitoring at multiple tertiary epilepsy centres, stored as bipolar derivations between adjacent contacts. Twenty-minute N2/N3 sleep sections free of artifacts were selected. The source int16 samples were repacked losslessly into BrainVision format with resolution equal to the source gain. Channel positions are the midpoints of contact pairs in Talairach space.",
   "license": "CC-BY-NC-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -18,19 +18,16 @@
   },
   "keywords": [
     {
-      "term": "stereo-EEG"
+      "term": "intracranial EEG"
     },
     {
-      "term": "intracranial EEG"
+      "term": "stereo-EEG"
     },
     {
       "term": "high-frequency oscillations"
     },
     {
       "term": "NREM sleep"
-    },
-    {
-      "term": "normal brain activity"
     },
     {
       "term": "Epilepsy",

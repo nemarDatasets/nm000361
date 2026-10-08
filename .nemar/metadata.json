@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "MNI Open iEEG Atlas: high-sampling-rate NREM sleep sEEG (normal high-frequency oscillations)",
-  "description": "Stereo-EEG recordings of non-REM (N2/N3) sleep at original sampling rates (512, 1024 and 2000 Hz) from 71 patients with drug-resistant focal epilepsy, released through the MNI Open iEEG Atlas. Only bipolar channels judged to record normal physiological activity outside the epileptic zone and lesions are included (1152 channels), with Talairach coordinates and 17 brain regions. The data support normative analyses of high-frequency oscillations (ripples, fast ripples) across cortical regions.",
-  "methods_description": "Depth-electrode (DIXI or MNI homemade) stereo-EEG recorded during clinical monitoring at multiple tertiary epilepsy centres, stored as bipolar derivations between adjacent contacts. Twenty-minute N2/N3 sleep sections free of artifacts were selected. The source int16 samples were repacked losslessly into BrainVision format with resolution equal to the source gain. Channel positions are the midpoints of contact pairs in Talairach space.",
+  "description": "Stereo-EEG recordings from 71 patients with drug-resistant focal epilepsy during non-REM (N2/N3) sleep, kept at their original sampling rates of 512, 1024 and 2000 Hz. The data come from the MNI Open iEEG Atlas and were used to establish normative values for high-frequency oscillations (ripples, fast ripples and high-frequency activity) in 17 brain regions. Only bipolar channels judged to record normal physiological activity (1152 channels) are included, with Talairach coordinates and region labels.",
+  "methods_description": "Clinical stereo-EEG depth electrode recordings (DIXI or MNI homemade electrodes) were obtained at tertiary epilepsy centres. Bipolar channels with normal activity were selected outside the seizure onset zone and lesions. Roughly twenty-minute artifact-free N2/N3 sleep sections were chosen. Source int16 samples were repacked losslessly into BrainVision format with resolution equal to the source gain.",
   "license": "CC-BY-NC-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -81,14 +81,14 @@
       "funder_name": "Fonds de la Recherche en Santé du Québec"
     },
     {
+      "funder_name": "Canadian Institutes of Health Research",
+      "award_number": "FDN-143208"
+    },
+    {
       "funder_name": "Savoy Epilepsy Foundation"
     },
     {
       "funder_name": "Botterell Powell's Foundation"
-    },
-    {
-      "funder_name": "Canadian Institutes of Health Research",
-      "award_number": "FDN-143208"
     }
   ],
   "resource_type_general": "Dataset",
@@ -102,6 +102,7 @@
   "formats": [
     ".eeg",
     ".json",
+    ".md",
     ".sha256",
     ".tsv",
     ".txt",
@@ -110,5 +111,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "faa7bd2514cfd39ce069303a551877e98ece10c126b60d334f20d2988ead06b6"
+  "source_hash": "a01675570d518139f7a4df83ee38e05b345f6f7c451c343f9c7ec6ed81c0c048"
 }

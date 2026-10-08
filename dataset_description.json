@@ -60,5 +60,7 @@
       "Name": "laneF_convert_ieeg008.py + laneF_split_ieeg008.py (iEEG-NEMAR campaign, lane F)",
       "Description": "Lossless repack of the source int16 arrays into BrainVision INT_16 with resolution = source Gain (µV per unit); zero buffers/padding detected and listed in events.tsv."
     }
-  ]
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000361",
+  "Version": "1.0.0"
 }

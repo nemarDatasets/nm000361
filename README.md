@@ -1,0 +1,180 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.nm000361-blue)](https://doi.org/10.82901/nemar.nm000361)
+
+# MNI Open iEEG Atlas: high-sampling-rate NREM sleep sEEG (normal high-frequency oscillations)
+
+## Overview
+
+Stereo-EEG during non-REM sleep (N2/N3) at the **original sampling rates** (512, 1024 and 2000 Hz) from
+71 patients, as published in the MNI Open iEEG Atlas for the normative high-frequency oscillation (HFO)
+study (Frauscher et al. 2018, Ann Neurol). The source calls these "the raw data of physiological sEEG
+recordings used to analyze HFOs". The processed 200 Hz atlas clips (wakefulness, N2, N3, REM) are deposited
+separately as a derivative dataset ("MNI Open iEEG Atlas: normal intracranial EEG in wakefulness and sleep").
+
+The HFO paper (Frauscher et al. 2018, Ann Neurol 84:374, abstract) used "Intracerebral stereo-encephalographic
+recordings with channels displaying normal physiological activity from nonlesional tissue [...] from 2 tertiary
+epilepsy centers. Twenty-minute sections from N2/N3 sleep were selected for automatic detection of ripples
+(80-250Hz), fast ripples (>250Hz), and HFA defined as long-lasting activity > 80Hz. Normative values are provided
+for 17 brain regions." and reports "A total of 1,171 bipolar channels with normal physiological activity from 71
+patients". This dataset contains 1152 bipolar channels from 71 patients (575 + 35 + 542, see Files), i.e. the
+channel set released by the authors.
+
+## License
+
+CC-BY-NC-4.0
+
+## Cohort
+
+Patients with drug-resistant focal epilepsy investigated with intracranial EEG at three tertiary epilepsy
+centres (Frauscher et al. 2018). Only channels judged by the authors to record normal activity (outside the
+epileptic zone and lesions, in grey matter) are included. `participants.tsv` holds only what the source
+publishes: the source patient number (1-110; participant label `sub-<3-digit number>`), sex and age at time
+of study (`PatientInformation.csv`), and the recording-centre code (first character of the source channel
+names: G, M or N; the source does not name the centres). No other clinical information exists in the source
+and none was added.
+
+- Patients: 71 (35 with centre code G, 36 with centre code M; `participants.tsv`). The HFO paper abstract states
+  that the recordings come from 2 tertiary epilepsy centres.
+- Centres of the MNI Open iEEG Atlas (Frauscher et al. 2018, Brain 141:1130, Methods, "Selection of intracranial
+  EEG recordings"): Montreal Neurological Institute and Hospital (MNI), Centre Hospitalier de l'Université de
+  Montréal (CHUM) and Grenoble-Alpes University Hospital (CHUGA). The source does not state which centre code
+  (G, M, N) corresponds to which centre, so no mapping is given here.
+- Implant: stereo-EEG depth electrodes only in this dataset (source groups "DIXI electrodes or MNI Home Made (HM)
+  electrodes", readme_HighSamplingRate.txt).
+- Selection criteria of the atlas (Frauscher et al. 2018, Brain, Methods): "A channel with normal activity is
+  defined as a channel localized in normal tissue as assessed by MRI, is located outside the seizure onset zone,
+  does not show at any time of the circadian cycle interictal epileptic discharges (according to the clinical
+  report of the complete implantation and to a careful investigation of one night of sleep by a board-certified
+  electrophysiologist), and shows the absence of overt slow-wave anomaly"; contacts in white matter were excluded;
+  recordings had to be obtained "after a minimum of 72 h after insertion of stereo-EEG electrodes or 1 week after
+  placement of subdural grids or strips [...] and at least 12 h after a generalized tonic-clonic seizure, 6 h in
+  case of focal clinical seizures, or 2 h in case of purely electrographic seizures, and not after electrical
+  stimulation". Patients with large cortical malformations were excluded.
+
+## Recording and task
+
+All `task-sleepNREM` (N2/N3 sleep; the paper used twenty-minute sections of N2/N3 sleep). There is no task or
+stimulus; the recordings are spontaneous sleep during clinical monitoring.
+
+- Sampling rates (original, not resampled): 512 Hz (32 patients), 1024 Hz (3 patients), 2000 Hz (36 patients).
+- Reference: every channel is a bipolar derivation between adjacent contacts of one electrode (source: "one
+  bipolar channel per column").
+- Power-line frequency per the atlas readme (readme_MNI_Open_iEEG_Atlas.txt): "50 Hz for channels with name
+  beginning with 'G', and 60 Hz for channels beginning with 'M' or 'N'" (`PowerLineFrequency` in `*_ieeg.json`).
+- Amplifier/acquisition system and hardware filters: not stated in the released readmes; the full text of the
+  HFO paper was not accessible to us, so these fields are left `n/a`.
+
+## Files
+
+| acq | Source file (in HFOsInTheNormalHumanBrain.zip) | Electrodes | Subjects | Channels | Samples per file |
+|---|---|---|---|---|---|
+| hfo512Hz | DIXI-512Hz.mat | DIXI | 32 | 575 | 616448 (1204 s) |
+| hfo1024Hz | DIXI-1024Hz.mat | DIXI | 3 | 35 | 1230848 (1202 s) |
+| hfo2000Hz | DIXI-2000Hz.mat and HM-2000Hz.mat | DIXI (18 subjects) / MNI homemade (18 subjects) | 36 | 542 | 2406001 / 2406000 |
+
+Per recording:
+
+- `*_ieeg.vhdr/.vmrk/.eeg`: BrainVision, INT_16 samples with resolution = source `Gain` (see Units below).
+- `*_ieeg.json`: recording metadata (sampling rate, power-line frequency, reference, electrode manufacturer,
+  source file and scaling).
+- `*_channels.tsv`: one row per bipolar channel (source names), type SEEG, units µV.
+- `*_space-Talairach_electrodes.tsv` + `*_coordsystem.json`: one row per bipolar channel at the midpoint of its two
+  contacts, with hemisphere, region number/name (17 regions) and electrode type.
+- `*_events.tsv/.json`: artifact-free sections, zero buffers and end padding (see Known caveats).
+- `sub-*_scans.tsv`: list of recordings (no acquisition times exist).
+- `sourcedata/document_repository/`: the original release files, byte-identical, with SHA-256 checksums.
+
+Units: values are the source int16 samples stored as BrainVision INT_16 with resolution = the source `Gain`
+(0.0977 µV per unit for the DIXI 512/1024 Hz files, 0.1526 µV per unit for the 2000 Hz files): readme: "In order
+to obtain the recordings in uV this matrix should be multiplied by the Gain variable." Nothing was filtered or
+resampled by us. The readme does not describe any filtering by the source.
+
+Coordinates: **Talairach**, readme: "Position: Talairach coordinates of the channels (midpoint of bipolar
+channels), in mm." (`space-Talairach`). Regions: 17 regions (`RegionList` in each .mat file, the
+`labels.nii`/`template.nii` volumes in the source zip). The readme states that the NifTi files "are modified
+versions of an existing ATLAS (Landman BA, Warfield SK, editors. MICCAI 2012 Workshop on Multi-Atlas Labeling
+[...]). They were non-linearly registered to the ICBM152 2009c nonlinear symmetric brain model". The HFO detector
+used in the paper (`HFODetector.m`) is in the source zip; a later version is on Zenodo (doi:10.5281/zenodo.7191089,
+CC BY 4.0).
+
+## Channels and coordinates
+
+Every channel is a **bipolar** derivation between adjacent contacts of one electrode. `electrodes.tsv` has one
+row per bipolar channel, positioned at the **midpoint** of its two contacts, coordinates copied unchanged from
+the source. Channel names are the source names. Channel type SEEG for depth electrodes (source types D = DIXI,
+M = MNI homemade, A = AdTech), ECOG for subdural strips/grids (type G = AdTech).
+
+## Preprocessing applied by the source
+
+The release readme for this set (readme_HighSamplingRate.txt) describes the data as raw sEEG recordings stored as
+int16 with a gain and does not describe filtering, resampling or re-referencing beyond the bipolar derivation. The
+selection of artifact-free sections and their concatenation with zero buffers is visible in the samples (see
+Known caveats). The 200 Hz preprocessing described in readme_MNI_Open_iEEG_Atlas.txt (anti-alias filter,
+resampling, power-line removal, mean removal) applies to the separate atlas dataset, not to these files.
+
+## Known caveats
+
+Segments: the files contain all-channel exact-zero runs of exactly one second between sections and zero
+padding at the end. This is not described in readme_HighSamplingRate.txt; it is detected from the samples and
+listed in `*_events.tsv` (`artifact_free_segment`, `zero_buffer_between_segments`, `zero_padding_end`). Files
+with more than one section set `RecordingType: discontinuous`; consecutive sections were not necessarily
+contiguous in the original recording. Onsets are relative to the file start; no acquisition times exist.
+Patient numbers are shared with the atlas (see participants.json).
+
+- The sleep stage of each section is given only as "N2/N3": the source does not separate N2 from N3 in these files.
+- The channel count (1152) differs from the 1,171 channels analysed in the paper abstract; the source does not
+  explain the difference.
+
+## How to load
+
+```python
+from mne_bids import BIDSPath, read_raw_bids
+bp = BIDSPath(root=".", subject="002", task="sleepNREM", acquisition="hfo512Hz",
+              datatype="ieeg", suffix="ieeg", extension=".vhdr")
+raw = read_raw_bids(bp)          # bipolar SEEG channels (MNE stores volts)
+events = raw.annotations         # artifact-free sections, zero buffers, end padding
+```
+
+Exclude `zero_buffer_between_segments` and `zero_padding_end` intervals before analysis (for example by cropping
+to the `artifact_free_segment` rows of `*_events.tsv`).
+
+## How to cite
+
+Cite all papers that describe the data you use:
+
+- Frauscher B, von Ellenrieder N, Zelmann R, Doležalová I, Minotti L, Olivier A, Hall J, Hoffmann D, Nguyen DK, Kahane P, Dubeau F, Gotman J. Atlas of the normal intracranial electroencephalogram: neurophysiological awake activity in different cortical areas. Brain 2018;141(4):1130-1144. doi:10.1093/brain/awy035
+- Frauscher B, von Ellenrieder N, Zelmann R, Rogers C, Nguyen DK, Kahane P, Dubeau F, Gotman J. High-Frequency Oscillations in the Normal Human Brain. Ann Neurol 2018;84(3):374-385. doi:10.1002/ana.25304
+- von Ellenrieder N, Gotman J, Zelmann R, Rogers C, Nguyen DK, Kahane P, Dubeau F, Frauscher B. How the Human Brain Sleeps: Direct Cortical Recordings of Normal Brain Activity. Ann Neurol 2020;87(2):289-301. doi:10.1002/ana.25651
+
+Source: MNI Open iEEG Atlas, Montreal Neurological Institute, https://mni-open-ieegatlas.research.mcgill.ca/
+
+## Ethics
+
+Frauscher et al. 2018 (Brain 141:1130), Methods: "Ethical approval was granted at the MNI as lead ethics
+organization (REB vote: MUHC-15-950)." The data were recorded during clinical presurgical evaluation of drug-resistant
+focal epilepsy at three tertiary epilepsy centres. The HFO patients are patients of the same atlas (shared patient numbers).
+
+## Funding
+
+Frauscher et al. 2018 (Brain 141:1130), Funding: "This work was supported by the Savoy Epilepsy Foundation (project
+grant to B.F. and post-doctoral fellowship to R.Z.), the Botterell Powell's Foundation (grant to B.F.), and the
+Canadian Institute of Health Research (grant FDN-143208 to J.G.)." The Crossref funder record of the HFO paper
+(doi:10.1002/ana.25304) lists the same funders (CIHR award FDN-143208) plus the Fonds de la Recherche en Santé du Québec.
+
+## Privacy
+
+The source files were already anonymised by the authors (EDF headers carry "X" placeholders and the date
+01-JAN-1970; no names, birth dates or recording dates). A byte-level review of every converted file and of
+`sourcedata/` found no participant identifiers. The only personal names are author attributions (the
+HFODetector.m author line and the PDF author field). The NIfTI volumes are brain templates, not participant
+images.
+
+## Conversion and provenance
+
+Conversion (iEEG-NEMAR campaign, lane F, 2026-10-06) is a lossless repack: every sample in the BrainVision
+`.eeg` files is bit-identical to the source arrays (606/606 recordings verified, raw bytes compared). No
+filtering, resampling, re-referencing, rescaling or channel selection was done. Channels absent in a stage
+(NaN columns in the source) are omitted from that recording, never filled. All original files are kept
+byte-identical under `sourcedata/` with SHA-256 checksums.
+
+Source: MNI Open iEEG Atlas document repository (https://mni-open-ieegatlas.research.mcgill.ca/),
+`HFOsInTheNormalHumanBrain.zip` with `readme_HighSamplingRate.txt`, downloaded 2026-10-06.
